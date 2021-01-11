@@ -7,6 +7,6 @@ The AI assistant written in python3
 
 2. python advik.py [ For Windows ]
 
-** OR **
+**OR**
 
 python3 advik.py [ For Linux ]
